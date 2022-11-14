@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p className="App-intro">
-          slack name: Obasoro Olakunle is winning by God's grace
+          slack name: Obasoro Olakunle is winning by God's grace.
+          Developing new skillset
         </p>
         <a
           className="App-link"
